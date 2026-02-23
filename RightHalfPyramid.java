@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class RightHalfPyramid {
     public static void main(String[] args) {
         int rows = 6;
@@ -10,3 +11,6 @@
         }
     }
 }
+=======
+
+>>>>>>> 824a6d6eb1b45ba29d1a405023235846f0536ece
