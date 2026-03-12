@@ -1,13 +1,43 @@
-blinker==1.9.0
-certifi==2026.2.25
-charset-normalizer==3.4.5
-click==8.3.1
-colorama==0.4.6
-Flask==3.1.3
-idna==3.11
-itsdangerous==2.2.0
-Jinja2==3.1.6
-MarkupSafe==3.0.3
-requests==2.32.5
-urllib3==2.6.3
-Werkzeug==3.1.6
+# Cloud Computing with DevOps Practical
+###Cloud Computing With DevOps Practical
+
+## Student Information
+
+| Name | Enrollment Number | Practical Set |
+|                                                                   |
+| Patel Prinshy | 202504104610103 | Set B |
+| Modi Chirag | 202504104610141 | Set A |
+
+
+## Subject
+Cloud Computing with DevOps
+
+#Logos
+#University : UTU
+<img src="images/UTU.png" width="200" height="200">
+
+##Department : SRIMCA
+<img src="images/SRIMCA.png" width="200" height="200">
+
+##Subject
+Cloud Computing with devops
+
+##Practical Overview
+This is repository contain practical exercise and assignment Related to cloud computing with DevOps.
+
+##Notes:
+Each Practical task is organized separate file.
+
+The 'requirement.txt' file contain all dependencies needed for python Programs
+
+Images and documentation are included to make the README informative and visually clear.
+
+
+
+
+
+
+
+
+
+
